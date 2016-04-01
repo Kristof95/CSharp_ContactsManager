@@ -1,0 +1,9 @@
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\bin\Debug\ContactManager.exe.config
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\bin\Debug\ContactManager.exe
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\bin\Debug\ContactManager.pdb
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\obj\Debug\ContactManager.Form1.resources
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.Cache
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\obj\Debug\ContactManager.exe
+c:\users\kristof\documents\visual studio 2015\Projects\CodeAnalysis\ContactManager\obj\Debug\ContactManager.pdb
